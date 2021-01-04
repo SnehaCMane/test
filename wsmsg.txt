@@ -1,0 +1,20 @@
+Web Socket Url
+ws://13.127.219.27:8001/
+
+{
+  "action":"connectToChat",
+  "chatRoomId":"1",
+  "userId":"3"
+}
+
+{
+  "action": "oldMessages",
+  "messages": [{
+    "action": "sendTextMessage",
+    "text": "hiii",
+    "chatRoomId": "1",
+    "userId": "1",
+    "photoUrl": "",
+    "timeStamp": ""
+  }]
+}
